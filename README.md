@@ -2,7 +2,6 @@
 
 Created a Simple yet logical form by React + Vite using the concept of useRef Hook 
 
-Currently, two official plugins are available:
 
 <img width="1582" height="734" alt="image" src="https://github.com/user-attachments/assets/ee9dec7f-9c95-4149-a9ba-3046ed5246c8" />
 
