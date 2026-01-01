@@ -85,6 +85,18 @@ form button {
 form button:hover {
   opacity: 0.9;
 }
+.developer {
+  margin-top: 18px;
+  text-align: center;
+}
+
+.developer h2 {
+  font-size: 16px;
+  color: #850e35;
+  opacity: 0.75;
+  letter-spacing: 0.6px;
+  position: relative;
+}
 
 /* Output Section */
 .output {

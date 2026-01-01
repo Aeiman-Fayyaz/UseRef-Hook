@@ -83,6 +83,9 @@ export default function InputFocus() {
           <input type="text" ref={location} placeholder="Location" />
 
           <button type="submit">Submit</button>
+          <div className="developer">
+            <h2>Developed by Aeiman</h2>
+          </div>
         </form>
 
         {data.name && (
